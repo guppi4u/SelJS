@@ -1,2 +1,2 @@
 # SelJS
-Selenium JavScript
+Selenium JavaScript
